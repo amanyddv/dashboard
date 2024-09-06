@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './configForm.css';
+import './ConfigForm.css';
 
 type PricingOption = {
   type: string;
