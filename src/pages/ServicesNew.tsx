@@ -1,8 +1,7 @@
 import Sidebar from '../components/Sidebar';
 import Header from '../components/Header';
-import './ServicesNew.css';
 import ConfigForm from '../components/ConfigForm';
-
+import './ServicesNew.css';
 
 function ServicesNew() {
   return (<div className="dashboard">
