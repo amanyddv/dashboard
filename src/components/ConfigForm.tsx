@@ -6,7 +6,7 @@ type PricingOption = {
   cpu: string;
   ram: string;
   price: string;
-  txt:string,
+  txt:string, 
 };
 
 const pricingOptions: PricingOption[] = [
