@@ -26,7 +26,7 @@ function ConfigForm() {
       const newErrors: { [key: string]: string } = {};
       const portNumber = parseInt(port);
   
-      if (!port || portNumber < 1 || portNumber > 65535) {
+      if (!port || portNumber < 2000 || portNumber > 65535) {
         newErrors.port = 'Port number must be between 1 and 65535';
       }
       if (!command) {
