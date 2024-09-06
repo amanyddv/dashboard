@@ -1,7 +1,7 @@
 import Sidebar from '../components/Sidebar';
 import Header from '../components/Header';
 import './ServicesNew.css';
-import ConfigForm from '../components/configForm';
+import ConfigForm from '../components/ConfigForm';
 
 
 function ServicesNew() {
