@@ -9,8 +9,6 @@ function ServicesNew() {
     <div><Header/> 
     <ConfigForm/> 
     </div>
-    
-    
     </div>  );
 }
 
