@@ -1,0 +1,16 @@
+.page{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    width: 100vw;
+    height: 100vh;
+    color: #FFFFFF;
+}
+button{
+    color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
